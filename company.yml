@@ -1,2 +1,5 @@
 --- 
-message: "Hello Company!"
+spring: 
+  profiles: cloud
+
+message: "Hello Cloud profile!"
