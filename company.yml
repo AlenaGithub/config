@@ -2,4 +2,4 @@
 spring: 
   profiles: cloud
 
-message: "Hello Cloud profile!"
+message: "Hello Cloud Changed!"
