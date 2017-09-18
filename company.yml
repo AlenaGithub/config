@@ -2,4 +2,6 @@
 spring: 
   profiles: cloud
 
+info:
+  description: "Company configuration repo"
 message: "Hello Cloud Changed again!"
