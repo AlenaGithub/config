@@ -13,5 +13,4 @@ spring:
 eureka: 
   instance: 
     hostname: ${vcap.application.uris[0]}
-	NonSecurePort: 80
-	
+    NonSecurePort: 80
